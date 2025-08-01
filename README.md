@@ -1,4 +1,4 @@
-# Phishing Email Detection System - Technical Report
+# Phishing Email Detection System 
 
 ## Table of Contents
 1. Introduction
